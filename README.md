@@ -79,15 +79,7 @@ I build things at the intersection of **AI research and engineering** — from a
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Ameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzi275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzi275&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
