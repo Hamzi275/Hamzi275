@@ -22,7 +22,7 @@ class AmeerHamza:
     open_to     = ["AI Research", "ML Engineering", "Remote Opportunities"]
 ```
 
-I build things at the intersection of **AI research and engineering** — from autonomous robots navigating indoor arenas using A\* + TSP heuristics, to LLM-powered RAG pipelines and real-time data systems.
+I build things at the intersection of **AI research and engineering** from autonomous robots navigating indoor arenas using A\* + TSP heuristics, to LLM-powered RAG pipelines and real-time data systems.
 
 ---
 
@@ -30,10 +30,10 @@ I build things at the intersection of **AI research and engineering** — from a
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [Multi-Goal Robot Navigation](https://github.com/Hamzi275/multi-goal-robot-navigation-webots) | Autonomous indoor robot — A\* pathfinding + TSP-NN heuristic, static obstacle avoidance, real-time metrics | Python · Webots R2025a |
+| 🤖 [Multi-Goal Robot Navigation](https://github.com/Hamzi275/multi-goal-robot-navigation-webots) | Autonomous indoor robot A\* pathfinding + TSP-NN heuristic, static obstacle avoidance, real-time metrics | Python · Webots R2025a |
 | 📊 [SysStream Monitoring Pipeline](https://github.com/Hamzi275/SysStream-Real-Time-System-Monitoring-Pipeline) | Real-time CPU/memory/disk/network streaming via Kafka → SQL Server → Power BI | Python · Kafka · SQL Server |
 | 🌤 [Airflow Weather ETL](https://github.com/Hamzi275/Airflow_Weather_ETL) | End-to-end ETL pipeline: Open-Meteo API → Airflow DAG → PostgreSQL, Dockerized | Python · Airflow · PostgreSQL · Docker |
-| 🧠 [ML/DL Collection](https://github.com/Hamzi275/ML-DL) | Comprehensive ML & DL projects — preprocessing, training, evaluation, advanced architectures | Python · TensorFlow · PyTorch |
+| 🧠 [ML/DL Collection](https://github.com/Hamzi275/ML-DL) | Comprehensive ML & DL projects preprocessing, training, evaluation, advanced architectures | Python · TensorFlow · PyTorch |
 | 📈 [Data Analysis](https://github.com/Hamzi275/data-analysis) | Data exploration, visualization, statistical insights, PySpark workflows | Python · Pandas · PySpark · Matplotlib |
 
 ---
@@ -85,15 +85,15 @@ I build things at the intersection of **AI research and engineering** — from a
 
 ## 🎯 Currently Working On
 
-- 🤖 **Multi-Goal Robot Navigation** — Extending with dynamic obstacles and multi-robot support
-- 📚 **MS AI coursework** @ Beykoz University — Robotics, AI Research Methods, Applied ML
-- ✍️ **Technical Writing** on Medium — LLMs, RAG, Data Engineering, AI systems
+- 🤖 **Multi-Goal Robot Navigation** Extending with dynamic obstacles and multi-robot support
+- 📚 **MS AI coursework** @ Beykoz University Robotics, AI Research Methods, Applied ML
+- ✍️ **Technical Writing** on Medium LLMs, RAG, Data Engineering, AI systems
 
 ---
 
 <div align="center">
 
-*"The goal is not to build AI that replaces humans — but AI that makes humans more capable."*
+*"The goal is not to build AI that replaces humans but AI that makes humans more capable."*
 
 ⭐ **If you find my projects useful, consider giving them a star!**
 
