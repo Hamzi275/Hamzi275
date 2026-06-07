@@ -4,7 +4,7 @@
 ### MS Artificial Intelligence · Beykoz University, Istanbul
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ameer-hamza-b80333275/)
-[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium)](https://medium.com/@ameerhamza)
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium)](https://medium.com/@a275hamza)
 [![Profile Views](https://komarev.com/ghpvc/?username=Hamzi275&style=for-the-badge&color=brightgreen)](https://github.com/Hamzi275)
 
 </div>
@@ -72,10 +72,10 @@ I build things at the intersection of **AI research and engineering** — from a
 ## 📝 Latest Medium Posts
 
 <!-- Replace these with your actual Medium post links -->
-- 🔗 [Multimodal AI in 2025: Why Combining Text, Image, Audio & Video Is the Future](https://medium.com/@ameerhamza)
-- 🔗 [From Simple RAG to Agentic RAG: When, Why, and How to Use Them](https://medium.com/@ameerhamza)
-- 🔗 [Data Quality for Real-World AI: Enforce it with Pytest & Great Expectations](https://medium.com/@ameerhamza)
-- 🔗 [How Human–AI Collaboration is Redefining Data Annotation](https://medium.com/@ameerhamza)
+- 🔗 [Multimodal AI in 2025: Why Combining Text, Image, Audio & Video Is the Future](https://medium.com/@a275hamza)
+- 🔗 [From Simple RAG to Agentic RAG: When, Why, and How to Use Them](https://medium.com/@a275hamza)
+- 🔗 [Data Quality for Real-World AI: Enforce it with Pytest & Great Expectations](https://medium.com/@a275hamza)
+- 🔗 [How Human–AI Collaboration is Redefining Data Annotation](https://medium.com/@a275hamza)
 
 ---
 
