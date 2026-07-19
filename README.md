@@ -101,16 +101,6 @@ Ameer Hamza, Nimra Mairaj · Zenodo, July 2025
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzi275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzi275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
 ---
 
 ## 🎯 Currently
@@ -124,7 +114,7 @@ Ameer Hamza, Nimra Mairaj · Zenodo, July 2025
 
 <div align="center">
 
-*"The goal is not to build AI that replaces humans — but AI that makes humans more capable."*
+*"The goal is not to build AI that replaces humans but AI that makes humans more capable."*
 
 ⭐ **If you find my work useful, a star means a lot!**
 
